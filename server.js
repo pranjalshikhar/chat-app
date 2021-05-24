@@ -2,7 +2,7 @@ const { Socket } = require('dgram');
 const express = require('express');
 const app = express();
 const http = require('http').createServer(app);
-const PORT = process.env.POT || 3000;
+const PORT = process.env.PORT || 3000;
 
 // Use CSS 
 app.use(express.static(__dirname + '/public'));
