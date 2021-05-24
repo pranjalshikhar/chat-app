@@ -2,7 +2,7 @@
 
 <h2>Steps to make this project.</h2>
 <ul>
-    <li>Create **npm** project.</li>
+    <li>Create npm project. <img src="https://img.icons8.com/color/50/000000/npm.png"/></li>
     <li>Create index, css, javascript files.</li>
     <li>Install dependencies: express, nodemon (dev. dep.)</li>
     <li>Create a express server (Server.js)</li>
