@@ -1,4 +1,5 @@
 # REALTIME CHAT APPLICATION
+<img src="https://raw.githubusercontent.com/pranjalshikhar/chat-app/main/Screenshot%202022-02-25%20170109.jpg">
 
 <h2>Steps to make this project.</h2>
 <ul>
